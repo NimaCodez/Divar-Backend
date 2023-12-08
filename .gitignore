@@ -1,0 +1,4 @@
+node_modules
+constants.js
+/src/config/constants.js
+.env
